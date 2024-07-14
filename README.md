@@ -1,1 +1,1 @@
-# ml_proj1_bmw_price_prediction
+# Machine Learning Project 1: BMW Price Prediction
